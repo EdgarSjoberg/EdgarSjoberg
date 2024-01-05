@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
+My name is Edgar Sjöberg, I am a game development student at Malmö University who aspires to become a game designer.
+
+I am currently working on schoolwork (of course) but also a project with my friend @angelodarwiche that is so far called Project Cyberfantasy
+(check it out here: 
+
+I am currently learning Unreal 5 and visual scripting within it to hopefully broaden my knowledge of different aspects of game development.
 <!--
 **EdgarSjoberg/EdgarSjoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
